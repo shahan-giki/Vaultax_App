@@ -1,0 +1,3 @@
+python -m streamlit run "C:\Users\PC\OneDrive\Desktop\VaultexApp\vaultexV4.py"
+
+Give the file path after streamlit (python -m streamlit run) to host the vaultex platform locally.
