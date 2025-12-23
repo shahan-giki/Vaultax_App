@@ -1,0 +1,1 @@
+python -m streamlit run "C:\Users\PC\OneDrive\Desktop\VaultexApp\vaultexV4.py"
